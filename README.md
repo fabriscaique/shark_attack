@@ -1,7 +1,7 @@
 # Shark Attack Analysis
 
 ## Overview
-Here you have the **Shark Attack Analysis** side project, created in the **IronHack Data Analytics Bootcamp**. The goal of this project is to clean and analyze a dataset on shark attacks using Python and data wrangling techniques. By preparing the data for analysis, we aim to uncover meaningful insights for a chosen use case.
+The **Shark Attack Analysis** is a side project created during the **IronHack Data Analytics Bootcamp**. Shark attacks, while rare, can have serious consequences for beachgoers and marine enthusiasts. Studying these incidents helps us understand the factors that contribute to shark attacks, enabling better safety measures, awareness, and even conservation efforts. The goal of this project is to clean and analyze a dataset on shark attacks using Python and data wrangling techniques. By preparing the data for analysis, we aim to uncover meaningful insights.
 
 ## Approach
 1. **Initial Dataset Examination**: Investigate possible patterns such as shark attacks being more common in specific locations or during certain activities.
