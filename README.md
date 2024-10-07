@@ -1,27 +1,39 @@
-# Shark Attack Analysis
+# 🦈 Shark Attack Analysis
 
-## Overview
-The **Shark Attack Analysis** is a side project created during the **IronHack Data Analytics Bootcamp**. Shark attacks, while rare, can have serious consequences for beachgoers and marine enthusiasts. Studying these incidents helps us understand the factors that contribute to shark attacks, enabling better safety measures, awareness, and even conservation efforts. The goal of this project is to clean and analyze a dataset on shark attacks using Python and data wrangling techniques. By preparing the data for analysis, we aim to uncover meaningful insights.
+## 🌊 Overview
+The Shark Attack Analysis project was developed during the IronHack Data Analytics Bootcamp. Although shark attacks are rare, they can have serious consequences for beachgoers and marine enthusiasts. By studying these incidents, we can better understand the factors that contribute to shark attacks, leading to improved safety measures, increased awareness, and enhanced conservation efforts. This project involved cleaning and analyzing a dataset on shark attacks using Python and data wrangling techniques to uncover meaningful insights. 
 
-## Approach
-1. **Initial Dataset Examination**: Investigate possible patterns such as shark attacks being more common in specific locations or during certain activities.
-2. **Data Cleaning**: Using pandas to apply at least five data cleaning techniques, addressing missing values, duplicates, and inconsistencies.
-3. **Exploratory Data Analysis (EDA)**: After cleaning, follow basic EDA to validate any hypotheses and extract key insights.
+## 🔍 Approach
+1. **Initial Dataset Examination**: Investigated patterns in shark attacks, such as higher frequencies in specific locations or during particular activities.
+2. **Data Cleaning**: 
+   - Cleaned the dataframe by dropping unnamed columns and files that were not useful for data analysis, including PDFs, external links, videos, and other types of media.
+   - Renamed columns, addressed typos, and standardized data expressions.
+3. **Exploratory Data Analysis (EDA)**: Conducted basic EDA to validate hypotheses and extract key insights after cleaning the dataset.
 
-## Tools & Technologies
-- **Python**: Main programming language.
-- **pandas**: For data manipulation.
+## 🛠️ Tools & Technologies
+- **Python**: The primary programming language used.
+- **pandas**: For data manipulation and cleaning.
 - **Jupyter Notebook**: For coding and visualizations.
-- **Google Colab**: Used for collaborative coding.
+- **Google Colab**: Used for collaborative coding and sharing.
 
-## Key Insights
-- Insights and hypotheses validated or disproved through EDA.
-- Final analysis and conclusions on shark attack trends.
+## 📁 Repository Structure
+- **Main File**: `shark_attack_team_final.py` – This file contains the final analysis of the shark attack dataset.
+- **Extra Files**:
+  - `shark_attack_value_counts.py` – An initial file to extensively evaluate the dataframe and better understand its structure before starting the cleaning process and formulating hypotheses.
+  - `shark_attack_breeds.py` – An additional analysis file that cleans the 'species' column in a different way, necessitating separate handling.
 
-## Deliverables
+## 🔑 Key Insights
+- Validated or disproved insights and hypotheses through EDA.
+- Provided final analysis and conclusions on shark attack trends.
+
+## 📦 Deliverables
 - Cleaned dataset and code.
-- Visualizations and insights from EDA.
+- Visualizations and insights derived from EDA.
 - Project presentation.
 
-This is an ongoing project.
-All the Data in this project was retrieved from: https://www.sharkattackfile.net/incidentlog.htm 
+## ✅ Project Status
+This project is now complete. All data utilized in this project was retrieved from: [Shark Attack File](https://www.sharkattackfile.net/incidentlog.htm).
+
+---
+
+Feel free to dive into the code and explore the data! 🏖️🐋
