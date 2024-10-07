@@ -21,6 +21,7 @@ The Shark Attack Analysis project was developed during the IronHack Data Analyti
 - **Extra Files**:
   - `shark_attack_value_counts.py` – An initial file to extensively evaluate the dataframe and better understand its structure before starting the cleaning process and formulating hypotheses.
   - `shark_attack_breeds.py` – An additional analysis file that cleans the 'species' column in a different way, necessitating separate handling.
+  - `shark_attack_presentation.pdf` - PDF file containing the project presentation along with graphics for a visual overview of the findings.
 
 ## 🔑 Key Insights
 - Validated or disproved insights and hypotheses through EDA.
