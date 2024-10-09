@@ -1,7 +1,8 @@
 # 🦈 Shark Attack Analysis
+Caique Fabris | Sara Iriarte Paz | Rubén | Susanna
 
 ## 🌊 Overview
-The Shark Attack Analysis project was developed during the IronHack Data Analytics Bootcamp. Although shark attacks are rare, they can have serious consequences for beachgoers and marine enthusiasts. By studying these incidents, we can better understand the factors that contribute to shark attacks, leading to improved safety measures, increased awareness, and enhanced conservation efforts. This project involved cleaning and analyzing a dataset on shark attacks using Python and data wrangling techniques to uncover meaningful insights. 
+The Shark Attack Analysis project was a team effort developed during the IronHack Data Analytics Bootcamp. Although shark attacks are rare, they can have serious consequences for beachgoers and marine enthusiasts. By studying these incidents, we can better understand the factors that contribute to shark attacks, leading to improved safety measures, increased awareness, and enhanced conservation efforts. This project involved cleaning and analyzing a dataset on shark attacks using Python and data wrangling techniques to uncover meaningful insights.
 
 ## 🔍 Approach
 1. **Initial Dataset Examination**: Investigated patterns in shark attacks, such as higher frequencies in specific locations or during particular activities.
@@ -26,6 +27,12 @@ The Shark Attack Analysis project was developed during the IronHack Data Analyti
 ## 🔑 Key Insights
 - Validated or disproved insights and hypotheses through EDA.
 - Provided final analysis and conclusions on shark attack trends.
+
+## 🔬 Hypotheses Explored
+- **Caique Fabris**: Investigated the hypothesis that attacks are seasonal and may correlate with shark migration patterns.
+- **Sara Iriarte Paz**: Analyzed the correlation between the size of the shark, the severity of injuries, and the location of the attack.
+- **Rubén**: Explored the relationship between the activities of victims and their ages.
+- **Susana**: Examined the proportional increase in shark attacks on males over the past years.
 
 ## 📦 Deliverables
 - Cleaned dataset and code.
